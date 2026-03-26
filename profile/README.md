@@ -15,20 +15,23 @@
   <a href="https://github.com/Global-Software-Consulting" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Organization-6e5494?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:info@gsoftconsulting.com">
-    <img src="https://img.shields.io/badge/Email-info@gsoftconsulting.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sales@gsoftconsulting.com">
+    <img src="https://img.shields.io/badge/Email-sales@gsoftconsulting.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/company/global-software-consulting/" target="_blank">
+  <a href="https://pk.linkedin.com/company/global-software-consulting" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-GSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.facebook.com/gsoftconsulting" target="_blank">
+  <a href="https://www.facebook.com/Gsoft.consultng/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-GSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/gsoftconsulting" target="_blank">
+  <a href="https://www.instagram.com/gsoftconsulting/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-GSoft-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.behance.net/gsoftconsulting" target="_blank">
     <img src="https://img.shields.io/badge/Behance-GSoft-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://x.com/gsoftconsultng" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-GSoft-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
@@ -147,13 +150,29 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 
 ### 🌐 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,gatsby,html,css,sass,tailwind,redux,materialui,ts,js&theme=dark" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ### ⚙️ Backend & APIs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,redis,nginx&theme=dark" />
-  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-25c2a0?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
@@ -165,7 +184,7 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Navigation-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Navigation-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-147EFB?style=for-the-badge&logo=apple&logoColor=white" />
@@ -173,14 +192,24 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 
 ### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
 ### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,jenkins,git,linux,nginx&theme=dark" />
-</div>
-<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
   <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -194,11 +223,11 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
   <img src="https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-BB86FC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-03DAC5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Predictive_Analytics-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Automation-FF0266?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-BB86FC?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-03DAC5?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-FF0266?style=for-the-badge&logo=robot-framework&logoColor=white" />
 </div>
 
 ### 💳 Payments & Integrations
@@ -563,7 +592,7 @@ Whether you're a business looking for a technology partner or an engineer lookin
 | 🔗 Channel | 📬 Details |
 |:---|:---|
 | 🌐 Website | [gsoftconsulting.com](https://gsoftconsulting.com/) |
-| 📧 Email | [info@gsoftconsulting.com](mailto:info@gsoftconsulting.com) |
+| 📧 Email | [sales@gsoftconsulting.com](mailto:sales@gsoftconsulting.com) |
 | 📍 HQ | Lahore, Pakistan |
 | 🌎 Offices | Pakistan 🇵🇰 · USA 🇺🇸 · Australia 🇦🇺 |
 
@@ -575,7 +604,7 @@ Whether you're a business looking for a technology partner or an engineer lookin
 | 🔗 Channel | 📬 Details |
 |:---|:---|
 | 💼 Careers | [gsoftconsulting.com/careers](https://gsoftconsulting.com/careers) |
-| 📧 Apply | [info@gsoftconsulting.com](mailto:info@gsoftconsulting.com) |
+| 📧 Apply | [sales@gsoftconsulting.com](mailto:sales@gsoftconsulting.com) |
 | 🎯 Process | Explore → Apply → Interview |
 | 🌱 Growth | Internal promotions & mentoring |
 
@@ -594,7 +623,7 @@ Whether you're a business looking for a technology partner or an engineer lookin
 <br/>
 
 <div align="center">
-  <sub>📧 info@gsoftconsulting.com &nbsp;|&nbsp; 🌐 gsoftconsulting.com &nbsp;|&nbsp; ©2024 Global Software Consulting</sub>
+  <sub>📧 sales@gsoftconsulting.com &nbsp;|&nbsp; 🌐 gsoftconsulting.com &nbsp;|&nbsp; ©2024 Global Software Consulting</sub>
 </div>
 
 <div align="center">
