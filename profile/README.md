@@ -10,25 +10,25 @@
 
 <div align="center">
   <a href="https://gsoftconsulting.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-gsoftconsulting.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/Website-gsoftconsulting.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/Global-Software-Consulting" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Organization-0d1117?style=for-the-badge&logo=github&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/GitHub-Organization-6e5494?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:info@gsoftconsulting.com">
-    <img src="https://img.shields.io/badge/Email-info@gsoftconsulting.com-0d1117?style=for-the-badge&logo=gmail&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/Email-info@gsoftconsulting.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/company/global-software-consulting/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-GSoft-0d1117?style=for-the-badge&logo=linkedin&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/LinkedIn-GSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.facebook.com/gsoftconsulting" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-GSoft-0d1117?style=for-the-badge&logo=facebook&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/Facebook-GSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.instagram.com/gsoftconsulting" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-GSoft-0d1117?style=for-the-badge&logo=instagram&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/Instagram-GSoft-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.behance.net/gsoftconsulting" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-GSoft-0d1117?style=for-the-badge&logo=behance&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/Behance-GSoft-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>
 
@@ -154,21 +154,21 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,redis,nginx&theme=dark" />
   <br/>
-  <img src="https://img.shields.io/badge/Strapi-0d1117?style=for-the-badge&logo=strapi&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Socket.IO-0d1117?style=for-the-badge&logo=socket.io&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Sequelize-0d1117?style=for-the-badge&logo=sequelize&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=json-web-tokens&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Passport.js-0d1117?style=for-the-badge&logo=passport&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-25c2a0?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
 </div>
 
 ### 📱 Mobile
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/React_Navigation-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Agora-0d1117?style=for-the-badge&logo=agora&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/iOS-0d1117?style=for-the-badge&logo=apple&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Navigation-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-147EFB?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
 ### 🗄️ Databases
@@ -181,45 +181,45 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,jenkins,git,linux,nginx&theme=dark" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_EC2-0d1117?style=for-the-badge&logo=amazon-ec2&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/AWS_S3-0d1117?style=for-the-badge&logo=amazon-s3&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Elastic_Beanstalk-0d1117?style=for-the-badge&logo=amazonaws&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/AWS_CodePipeline-0d1117?style=for-the-badge&logo=amazonaws&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-0d1117?style=for-the-badge&logo=github-actions&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CodePipeline-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
 ### 🤖 AI & Automation
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Claude_(Anthropic)-0d1117?style=for-the-badge&logo=anthropic&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Google_Gemini-0d1117?style=for-the-badge&logo=google&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Predictive_Analytics-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/LLM_Integration-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-BB86FC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-03DAC5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-FF0266?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 💳 Payments & Integrations
 <div align="center">
-  <img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Google_Maps-0d1117?style=for-the-badge&logo=google-maps&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Google_Analytics-0d1117?style=for-the-badge&logo=google-analytics&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Vimeo_API-0d1117?style=for-the-badge&logo=vimeo&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Facebook_SDK-0d1117?style=for-the-badge&logo=facebook&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Prismic_CMS-0d1117?style=for-the-badge&logo=prismic&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vimeo_API-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook_SDK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prismic_CMS-5163BA?style=for-the-badge&logo=prismic&logoColor=white" />
 </div>
 
 ### 🧪 Testing & QA
 <div align="center">
   <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mocha-0d1117?style=for-the-badge&logo=mocha&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Chai-0d1117?style=for-the-badge&logo=chai&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Supertest-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ---
@@ -460,16 +460,16 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 ## 🤝 Trusted By
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Maroon_Studios-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Blend_Menu-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Omid_Life-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Vival_Tech-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Houze_PK-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Obenan-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Pedlar-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Careers_Kitchen-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/uDress-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Tibbi-0d1117?style=for-the-badge&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/🎬_Maroon_Studios-FF4444?style=for-the-badge&labelColor=FF4444&color=FF4444" />
+  <img src="https://img.shields.io/badge/🍽️_Blend_Menu-00C853?style=for-the-badge&labelColor=00C853&color=00C853" />
+  <img src="https://img.shields.io/badge/🧘_Omid_Life-9C27B0?style=for-the-badge&labelColor=9C27B0&color=9C27B0" />
+  <img src="https://img.shields.io/badge/💻_Vival_Tech-2196F3?style=for-the-badge&labelColor=2196F3&color=2196F3" />
+  <img src="https://img.shields.io/badge/🏠_Houze_PK-FF9800?style=for-the-badge&labelColor=FF9800&color=FF9800" />
+  <img src="https://img.shields.io/badge/📊_Obenan-00897B?style=for-the-badge&labelColor=00897B&color=00897B" />
+  <img src="https://img.shields.io/badge/🛍️_Pedlar-E91E63?style=for-the-badge&labelColor=E91E63&color=E91E63" />
+  <img src="https://img.shields.io/badge/💼_Careers_Kitchen-6C63FF?style=for-the-badge&labelColor=6C63FF&color=6C63FF" />
+  <img src="https://img.shields.io/badge/👗_uDress-FF6B35?style=for-the-badge&labelColor=FF6B35&color=FF6B35" />
+  <img src="https://img.shields.io/badge/🏥_Tibbi-4CAF50?style=for-the-badge&labelColor=4CAF50&color=4CAF50" />
 </div>
 
 ---
@@ -477,12 +477,12 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 ## 📈 Organization Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Founded-2012-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Team-100%2B%20Engineers-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Public%20Repos-14-0d1117?style=for-the-badge&logo=github&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Offices-3%20Countries-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Availability-24%2F7%20Support-0d1117?style=for-the-badge&logoColor=6AD3F7" />
-  <img src="https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-0d1117?style=for-the-badge&logoColor=6AD3F7" />
+  <img src="https://img.shields.io/badge/Founded-2012-6AD3F7?style=for-the-badge&labelColor=1a1b27&color=6AD3F7" />
+  <img src="https://img.shields.io/badge/Team-100%2B%20Engineers-00E676?style=for-the-badge&labelColor=1a1b27&color=00E676" />
+  <img src="https://img.shields.io/badge/Public%20Repos-14-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/Offices-3%20Countries-BB86FC?style=for-the-badge&labelColor=1a1b27&color=BB86FC" />
+  <img src="https://img.shields.io/badge/Availability-24%2F7%20Support-FF9800?style=for-the-badge&labelColor=1a1b27&color=FF9800" />
+  <img src="https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-03DAC5?style=for-the-badge&labelColor=1a1b27&color=03DAC5" />
 </div>
 
 ---
@@ -587,7 +587,7 @@ Whether you're a business looking for a technology partner or an engineer lookin
 
 <div align="center">
   <a href="https://gsoftconsulting.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Let's_Build_Something_Extraordinary_Together-0d1117?style=for-the-badge&logoColor=6AD3F7" />
+    <img src="https://img.shields.io/badge/🚀_Let's_Build_Something_Extraordinary_Together-6AD3F7?style=for-the-badge&labelColor=6AD3F7&color=6AD3F7" />
   </a>
 </div>
 
