@@ -83,7 +83,7 @@ const GSoftConsulting = {
 
 <div align="center">
 
-> *"Welcome to GSoft! A leading software development company providing modern software solutions and specialized services of Front-End, Back-End and Mobile-App Development along with Open AI and many more. We bring revolution and digital transformation to the journey of your success by excelling across various industries and businesses. By staying consistent with cutting-edge technologies and methodologies with a team of 100+ skilled experts, we strive to innovate your growing business model to boost its success and assure 24/7 availability for timely and 100% satisfying customer support."*
+> *"Welcome to GSoft! A leading software development company providing modern software solutions and specialized services of Front-End, Back-End and Mobile-App Development along with Open AI and many more. We bring revolution and digital transformation to the journey of your success by excelling across various industries and businesses. By staying consistent with cutting-edge technologies and methodologies with a team of 40+ skilled experts, we strive to innovate your growing business model to boost its success and assure 24/7 availability for timely and 100% satisfying customer support."*
 
 </div>
 
