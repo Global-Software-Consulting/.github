@@ -214,11 +214,11 @@ To be a leader of the IT industry by providing reliable and best IT solutions ar
 
 ### 🧪 Testing & QA
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-07C160?style=for-the-badge&logo=testing--library&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
