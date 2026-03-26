@@ -41,10 +41,10 @@
 ```typescript
 const GSoftConsulting = {
   name:        "Global Software Consulting",
-  founded:     2012,
+  founded:     2016,
   hq:          "Lahore, Pakistan 🇵🇰",
   offices:     ["Pakistan 🇵🇰", "USA 🇺🇸", "Australia 🇦🇺"],
-  team:        "100+ Skilled Engineers, Designers & Business Analysts",
+  team:        "40+ Skilled Engineers, Designers & Business Analysts",
   website:     "https://gsoftconsulting.com",
 
   mission:     "Provide quality services of Web, Mobile, AI/ML, DevOps & UI/UX to startup " +
