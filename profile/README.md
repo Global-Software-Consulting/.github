@@ -181,6 +181,16 @@ We build and maintain tools that solve real engineering problems. These reflect 
       <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Global-Software-Consulting/react-native-book-app-starter"><b>react-native-book-app-starter</b></a> &#11088; 36<br/>
+      Feature-rich React Native book reader app with text-to-speech, camera, dark mode, i18n, Redux Saga, CodePush, and full auth flow. iOS + Android.<br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 > More repos coming soon — MCP servers, NestJS starter, and AI agent tools. Star and watch this org to stay updated.
