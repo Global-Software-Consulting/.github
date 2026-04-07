@@ -170,9 +170,20 @@ We build and maintain tools that solve real engineering problems. These reflect 
       <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Global-Software-Consulting/nodejs-boilerplate"><b>nodejs-boilerplate</b></a><br/>
+      Production-ready Node.js monorepo starter with Express, MongoDB, JWT auth, RBAC, Docker, CI/CD with semantic-release, Swagger docs, Sentry error tracking, and a Next.js landing page. 18 GitHub Actions workflows included.<br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
-> More repos coming soon — MCP servers, production-grade starters, and AI agent tools. Star and watch this org to stay updated.
+> More repos coming soon — MCP servers, NestJS starter, and AI agent tools. Star and watch this org to stay updated.
 
 ---
 
