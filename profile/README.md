@@ -158,9 +158,21 @@ Senior engineers embedded in your existing team. They work in your tools, your s
 
 We build and maintain tools that solve real engineering problems. These reflect how we work internally and the standards we bring to client projects.
 
-> **Coming soon:** We're actively shipping new open-source repos in AI agents, MCP servers, and production-grade starters. Star and watch this org to stay updated.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Global-Software-Consulting/project-scaffolding-skills"><b>project-scaffolding-skills</b></a><br/>
+      Claude Code skills for scaffolding React, Next.js, React Native & Node.js projects interactively. Always latest versions, zero stale boilerplates. Supports Turborepo monorepos, 50+ integration options, and nightly CI smoke tests.<br/><br/>
+      <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-<!-- PINNED REPOS WILL GO HERE AS THEY ARE PUBLISHED -->
+> More repos coming soon — MCP servers, production-grade starters, and AI agent tools. Star and watch this org to stay updated.
 
 ---
 
