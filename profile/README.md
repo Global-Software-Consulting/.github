@@ -12,8 +12,8 @@
   <a href="https://gsoftconsulting.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-gsoftconsulting.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:sales@gsoftconsulting.com">
-    <img src="https://img.shields.io/badge/Email-sales@gsoftconsulting.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:bd@gsoftconsulting.com">
+    <img src="https://img.shields.io/badge/Email-bd@gsoftconsulting.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://pk.linkedin.com/company/global-software-consulting" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-GSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,59 +49,109 @@ const GSoftConsulting = {
 
 ## Track Record
 
-We don't do one-off projects. We become long-term engineering partners and grow with our clients.
-
 <div align="center">
 
 | | |
 |:---|:---|
 | **500+ Products Shipped** | Web platforms, mobile apps, and cloud systems delivered across 26 countries |
 | **200+ Clients** | Startups and enterprises across Europe, the US, MENA, and beyond |
+| **Fiverr Pro Agency** | Top-rated since 2016 — 5-star reviews, verified agency status |
 | **Revenue Impact** | Client products reaching **$1M+ ARR** built and maintained by our team |
 | **Funded Startups** | Partners who secured **seed, Series A, and beyond** with products we engineered |
-| **Long-Term Partnerships** | Multi-year engagements where we serve as the **dedicated engineering team** |
+| **Long-Term Relationships** | Most clients have been with us **3+ years** — we measure success in partnerships |
 
 </div>
 
-> We've taken products from napkin sketch through MVP, launch, funding rounds, and scale — acting as the full technical arm for founders who need to move fast and ship reliably.
+---
+
+## Our Story
+
+| Year | Milestone |
+|:---|:---|
+| **2016** | Started as a small freelance software team in Lahore — taking on projects, building reputation through delivery |
+| **~2019** | Established a top-rated Fiverr presence — consistent 5-star delivery opened doors to international clients |
+| **2021** | Scaled into a full-service studio — dedicated UI/UX, DevOps, QA, and mobile departments |
+| **2023** | Launched a dedicated AI engineering team — partnered with a product company that crossed $1M ARR |
+| **2025** | Global presence across 5 countries — 500+ products shipped — Netherlands, UK, Australia, Canada |
 
 ---
 
-## How We Work With You
+## How We Work
 
-We offer flexible engagement models to fit where you are in your journey:
+Four principles every GSoft engagement runs on — from first call to final deployment:
+
+<table>
+  <tr>
+    <td width="50%">
+
+**Radical Transparency**
+
+Weekly demos, daily standups, Loom updates. You always know exactly where your project stands — no surprises, no spin, no sudden scope changes.
+
+</td>
+    <td width="50%">
+
+**Quality Over Speed**
+
+Rigorous code reviews, automated test suites, and QA sprints before every release. We don't ship until it's right — and we mean it.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+**Domain-First Engineering**
+
+We don't just write code — we study your market. 30+ industries and 8+ years of vertical expertise inform every decision we make.
+
+</td>
+    <td width="50%">
+
+**Long-Term Partnership**
+
+From discovery to post-launch. Most of our clients have been with us for 3+ years. We measure success in relationships, not invoices.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## Engagement Models
 
 <table>
   <tr>
     <td width="33%" align="center">
 
-**Your IT Partner**
+**Fixed Price**
 
-We become your dedicated tech team. You focus on the business, we handle everything from architecture to deployment.
+Scoped deliverables. Defined timeline. Predictable cost. You bring a clear idea — we scope it, quote it, and deliver it. No surprises.
 
-*Best for: Startups without a CTO or in-house dev team*
-
-</td>
-<td width="33%" align="center">
-
-**Milestone-Based Projects**
-
-Fixed-scope, fixed-timeline delivery. We define milestones together and ship incrementally with full transparency.
-
-*Best for: Well-defined products, MVPs, and rebuilds*
+*Best for: MVPs, agency white-label, defined feature sets*
 
 </td>
-<td width="33%" align="center">
+    <td width="33%" align="center">
 
-**Team Augmentation**
+**Time & Material** ⭐ Most Common
 
-Senior engineers embedded in your existing team. They work in your tools, your sprints, your codebase.
+Flexible sprints. Evolving scope. Pay as you build. 2-week sprints with daily standups and demos every Friday — full visibility at every step.
 
-*Best for: Scaling fast, filling skill gaps, meeting deadlines*
+*Best for: Startups iterating fast, R&D, complex products*
+
+</td>
+    <td width="33%" align="center">
+
+**Dedicated Team**
+
+Your own embedded engineers. Fully integrated. Hand-picked team working your hours, attending your standups, accountable to your roadmap.
+
+*Best for: Scale-ups, long-term ownership, CTO-as-a-service*
 
 </td>
   </tr>
 </table>
+
+> NDA signed before any discussion · IP stays 100% yours · No lock-in contracts
 
 ---
 
@@ -122,33 +172,28 @@ Senior engineers embedded in your existing team. They work in your tools, your s
 <td width="50%">
 
 **Product Engineering**
+- SaaS platforms (multi-tenant, Stripe billing, production-ready)
 - React Native cross-platform mobile apps
 - Next.js & React web applications
 - NestJS microservices & APIs
-- Cloud infrastructure (AWS, GCP, Azure)
-- DevOps, CI/CD & deployment automation
 
 </td>
   </tr>
   <tr>
     <td width="50%">
 
-**UI/UX Design**
-- User research & wireframing
-- High-fidelity prototyping in Figma
-- Design systems & component libraries
-- Mobile & web responsive design
-- Brand identity & visual design
+**Cloud & DevOps**
+- AWS infrastructure, CI/CD pipelines
+- Docker, Terraform IaC
+- Zero-downtime deployments end-to-end
 
 </td>
 <td width="50%">
 
-**QA & Reliability**
-- Test-driven development (TDD)
-- Automated testing pipelines
-- Performance testing & optimization
-- Security audits & code review
-- CI/CD with quality gates
+**UI/UX Design**
+- User research, wireframing, Figma prototyping
+- Design systems & component libraries
+- Brand identity & visual design
 
 </td>
   </tr>
@@ -157,8 +202,6 @@ Senior engineers embedded in your existing team. They work in your tools, your s
 ---
 
 ## Open Source
-
-We build and maintain tools that solve real engineering problems. These reflect how we work internally and the standards we bring to client projects.
 
 <table>
   <tr>
@@ -317,26 +360,27 @@ We build and maintain tools that solve real engineering problems. These reflect 
 
 **For Businesses**
 
-Need a technical partner to build your product or augment your team?
-
-| Channel | Details |
+| | |
 |:---|:---|
 | Web | [gsoftconsulting.com](https://gsoftconsulting.com/) |
-| Email | [sales@gsoftconsulting.com](mailto:sales@gsoftconsulting.com) |
+| Email | [bd@gsoftconsulting.com](mailto:bd@gsoftconsulting.com) |
+| Portfolio | [gsoftconsulting.com/our-work](https://gsoftconsulting.com/our-work) |
 | Offices | Pakistan (HQ) · Netherlands · Canada · UK · Australia |
+
+Get a free estimate — we reply within 24 hours with a clear scope and transparent pricing.
 
 </td>
 <td width="50%">
 
-**For Engineers**
+**For Engineers** — 16 open roles
 
-We're hiring across all levels. Remote-friendly, growth-focused.
-
-| Channel | Details |
+| | |
 |:---|:---|
 | Careers | [gsoftconsulting.com/careers](https://gsoftconsulting.com/careers) |
 | Stack | TypeScript, NestJS, React Native, AI |
-| Culture | Code review, open source time, growth |
+| Location | Lahore HQ + remote-friendly |
+
+**Benefits:** Medical insurance · Paid leaves · 7% provident fund · Annual company trip · Performance bonuses · L&D budget · Global client exposure
 
 </td>
   </tr>
@@ -353,7 +397,7 @@ We're hiring across all levels. Remote-friendly, growth-focused.
 <br/>
 
 <div align="center">
-  <sub>sales@gsoftconsulting.com | gsoftconsulting.com | &copy; 2026 Global Software Consulting</sub>
+  <sub>bd@gsoftconsulting.com | gsoftconsulting.com | &copy; 2026 Global Software Consulting</sub>
 </div>
 
 <div align="center">
