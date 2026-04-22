@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=750&lines=AI+Agents+%7C+MCP+Servers+%7C+Claude+Code+Skills+%F0%9F%A4%96;Full-Stack+TypeScript+%26+React+Native+%F0%9F%9A%80;NestJS+Microservices+%7C+Cloud-Native+Architecture+%E2%9A%99%EF%B8%8F;40%2B+Engineers+Building+Production+Software+Since+2016+%F0%9F%8C%8D;Open+Source+Tools+for+the+AI+Engineering+Era+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=750&lines=AI+Agents+%7C+MCP+Servers+%7C+Claude+Code+Skills+%F0%9F%A4%96;Full-Stack+TypeScript+%26+React+Native+%F0%9F%9A%80;NestJS+Microservices+%7C+Cloud-Native+Architecture+%E2%9A%99%EF%B8%8F;50%2B+Engineers+Building+Production+Software+Since+2016+%F0%9F%8C%8D;Open+Source+Tools+for+the+AI+Engineering+Era+%F0%9F%94%A7" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -38,7 +38,8 @@ const GSoftConsulting = {
   founded:     2016,
   hq:          "Lahore, Pakistan",
   offices:     ["Pakistan (HQ)", "Netherlands", "Canada", "UK", "Australia"],
-  team:        "40+ Engineers, Designers & Architects",
+  team:        "50+ Engineers, Designers & Architects",
+  delivered:   "500+ products across 26 countries",
   focus:       ["AI Agents & Automation", "Full-Stack TypeScript",
                 "React Native Mobile", "Cloud-Native Backend"],
 };
@@ -54,7 +55,8 @@ We don't do one-off projects. We become long-term engineering partners and grow 
 
 | | |
 |:---|:---|
-| **MVP to Scale** | Multiple products built from zero to **thousands of active users** in production |
+| **500+ Products Shipped** | Web platforms, mobile apps, and cloud systems delivered across 26 countries |
+| **200+ Clients** | Startups and enterprises across Europe, the US, MENA, and beyond |
 | **Revenue Impact** | Client products reaching **$1M+ ARR** built and maintained by our team |
 | **Funded Startups** | Partners who secured **seed, Series A, and beyond** with products we engineered |
 | **Long-Term Partnerships** | Multi-year engagements where we serve as the **dedicated engineering team** |
@@ -296,15 +298,12 @@ We build and maintain tools that solve real engineering problems. These reflect 
 
 | Industry | What We've Built |
 |:---|:---|
-| **HealthTech** | Telemedicine platforms with video consultations, EHR integration |
-| **E-Commerce** | Multi-vendor marketplaces, fashion platforms, QR-based ordering |
-| **FinTech** | Payment processing, financial dashboards, compliance tools |
-| **SaaS** | Multi-tenant platforms, analytics dashboards, subscription systems |
-| **Wellness** | Course platforms, community apps, live streaming |
-| **Real Estate** | Property listing platforms, virtual tours, CRM systems |
-| **Food & Restaurant** | QR ordering, menu management, delivery systems |
-| **Local SEO & Listings** | Digital presence management, Google Business Profile integration, review management |
-| **AI / Automation** | Conversational AI, document processing, predictive analytics |
+| **FinTech & AI** | AI analytics, biometric identity platforms, payment infrastructure, compliance & KYC tools — 80+ products |
+| **HealthTech** | Telemedicine platforms, patient portals, EHR integration, mental health apps — 45+ products, 400K+ patient downloads |
+| **E-commerce & Marketplaces** | Creator storefronts, P2P marketplaces, fashion platforms, multi-vendor systems — 120+ products, 500K+ combined users |
+| **Real Estate & PropTech** | Investor portals, property management apps, VR tour platforms, CRM for agents — 30+ products |
+| **Hospitality & F&B** | QR ordering systems, digital menus, reservation & kitchen display systems — 20+ products, 13+ live venues |
+| **Creative Economy & EdTech** | Artist marketplaces, wellness platforms, e-learning hubs, subscription content apps — 25+ platforms, 10K+ creators |
 
 </div>
 
@@ -324,7 +323,7 @@ Need a technical partner to build your product or augment your team?
 |:---|:---|
 | Web | [gsoftconsulting.com](https://gsoftconsulting.com/) |
 | Email | [sales@gsoftconsulting.com](mailto:sales@gsoftconsulting.com) |
-| Offices | Pakistan (HQ) - Netherlands - Canada - UK - Australia |
+| Offices | Pakistan (HQ) · Netherlands · Canada · UK · Australia |
 
 </td>
 <td width="50%">
