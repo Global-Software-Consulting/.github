@@ -242,6 +242,47 @@ Your own embedded engineers. Fully integrated. Hand-picked team working your hou
 
 ---
 
+## Contributing to the Ecosystem
+
+Our engineers don't just build client products — they actively contribute back to the open source tools the whole industry relies on. Every PR below is merged and shipped.
+
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/n8n-io/n8n/pull/30172">n8n</a></b> &nbsp;⭐ 100k+<br/>
+      <b>Fixed Bitbucket credential validation bug</b> — corrected broken OAuth credential verification in the Bitbucket node so users can reliably authenticate without silent failures.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%2330172-Merged-6E40C9?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/supabase/supabase/pull/45762">Supabase</a></b> &nbsp;⭐ 80k+<br/>
+      <b>Accessibility fix in Studio grid editor</b> — resolved a keyboard navigation and ARIA labelling issue in the table editor, making the Studio dashboard more accessible for all users.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%2345762-Merged-3ECF8E?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-Open_Source_Firebase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/vercel/next.js/pull/94934">Next.js</a></b> &nbsp;⭐ 130k+<br/>
+      <b>Fixed broken Node.js inspector URL in debugging guide</b> — corrected an outdated inspector link in the official debugging documentation so developers get working instructions the first time.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%2394934-Merged-000000?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-React_Framework-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/nodejs/node/pull/63974">Node.js</a></b> &nbsp;⭐ 110k+<br/>
+      <b>Fixed keepAliveTimeout default in http.createServer docs</b> — corrected a documentation inaccuracy about the default value of <code>keepAliveTimeout</code>, preventing developers from shipping misconfigured servers based on wrong docs.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%2363974-Merged-339933?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-JavaScript_Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Stack
 
 ### Frontend & Mobile
