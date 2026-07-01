@@ -244,7 +244,7 @@ Your own embedded engineers. Fully integrated. Hand-picked team working your hou
 
 ## Contributing to the Ecosystem
 
-Our engineers don't just build client products — they actively contribute back to the open source tools the whole industry relies on. Every PR below is merged and shipped.
+Our engineers don't just build client products — they actively contribute back to the open source tools the whole industry relies on.
 
 <table>
   <tr>
@@ -277,6 +277,30 @@ Our engineers don't just build client products — they actively contribute back
       <b>Fixed keepAliveTimeout default in http.createServer docs</b> — corrected a documentation inaccuracy about the default value of <code>keepAliveTimeout</code>, preventing developers from shipping misconfigured servers based on wrong docs.<br/><br/>
       <img src="https://img.shields.io/badge/PR_%2363974-Merged-339933?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-JavaScript_Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fastapi/fastapi/pull/15903">FastAPI</a></b> &nbsp;⭐ 100k+<br/>
+      <b>Fixed 6 broken Pydantic v2 documentation links across 4 files</b> — Pydantic restructured their docs from <code>/usage/</code> to <code>/concepts/</code> paths in v2; all old URLs returned 404, breaking the official FastAPI tutorial references.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%2315903-Open-009688?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-Python_Framework-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/microsoft/autogen/pull/7903">Microsoft AutoGen</a></b> &nbsp;⭐ 59k+<br/>
+      <b>Fixed AttributeError crash in OpenAI streaming client</b> — the streaming loop accessed <code>chunk.model</code> before the <code>None</code> guard, crashing when the API yields <code>None</code> sentinel chunks during streaming sessions.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%237903-Open-0078D4?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/AutoGen-AI_Agent_Framework-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/huggingface/transformers.js/pull/1714">Transformers.js</a></b> &nbsp;⭐ 13k+<br/>
+      <b>Fixed WAV audio corruption for TypedArray subarrays in RawAudio.toBlob()</b> — <code>chunk.buffer</code> returned the full backing <code>ArrayBuffer</code> ignoring byte offset and length; fixed with <code>new Uint8Array(c.buffer, c.byteOffset, c.byteLength)</code> to correctly slice the intended audio data.<br/><br/>
+      <img src="https://img.shields.io/badge/PR_%231714-Open-FFD21E?style=flat-square&logo=github&logoColor=black" />
+      <img src="https://img.shields.io/badge/Transformers.js-ML_in_Browser-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
     </td>
   </tr>
 </table>
@@ -444,3 +468,4 @@ Get a free estimate — we reply within 24 hours with a clear scope and transpar
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,14,24&height=120&section=footer" width="100%" />
 </div>
+
